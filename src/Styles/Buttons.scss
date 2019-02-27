@@ -1,0 +1,103 @@
+.button {
+	border: none;
+	border-radius: 3px;
+	background-color: $colorBlue11;
+	font-size: 13px;
+	text-transform: uppercase;
+	padding: 6px 15px;
+	color: $colorWhite;
+	margin: 3px;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+	transition: all 0.3s ease-in-out;
+	cursor: pointer;
+	text-decoration: none;
+	outline: none;
+
+	&:hover {
+		box-shadow: 0 1px 5px rgba(0,0,0,0.3);
+		background-color: $colorBlue12;
+	}
+}
+
+.outline-button {
+	background-color: $colorWhite;
+	border: 1px solid $colorBlue7;
+	padding: 7px 19px;
+	color: $colorBlue7;
+
+	&:hover {
+		background-color: $colorWhite2;
+	}
+}
+
+.column-picker-button {
+	background-image: url('./Images/utility-reorder.svg');
+	background-color: $colorWhite;
+	background-position: center;
+	padding: 0;
+	width: 30px;
+	height: 30px;
+	background-repeat: no-repeat;
+	box-shadow: none;
+
+	&:hover {
+		background-color: $colorWhite2;
+		box-shadow: none;
+	}
+}
+
+.close-button {
+	background-image: url('./Images/utility-close.svg');
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	background-color: $colorWhite;
+	top: 3px;
+	right: 3px;
+	padding: 15px;
+	border-radius: 100%;
+	box-shadow: none;
+	transition: all 0.3s ease-in-out;
+
+	&:hover {
+		background-color: $colorWhite2;
+		box-shadow: none;
+	}
+}
+
+.refresh-icon {
+	padding: 15px;
+	background-image: url('./Images/refresh.png');
+	background-size: 18px 18px;
+	background-repeat: no-repeat;
+	cursor: pointer;
+	background-position: center;
+	background-color: $colorWhite1;
+	border-radius: 100%;
+	box-shadow: none;
+
+	&:hover {
+		background-color: $colorBlueGray5;
+		box-shadow: none;
+	}
+}
+
+.nav-close {
+	background-color: transparent;
+	position: relative;
+	top: 0;
+	right: 0;
+
+	&:hover {
+		background-color: rgba(255,255,255,0.1);
+	}
+}
+
+.filter-button {
+	background-color: $colorBlack3;
+	margin-right: 15px;
+
+	&:hover {
+		background-color: $colorBlack2;
+	}
+}

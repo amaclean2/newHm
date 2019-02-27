@@ -1,0 +1,106 @@
+.pill-container {
+	border: 1px solid $colorBlueGray6;
+	color: $colorBlue8;
+	display: inline-block;
+	border-radius: 3px;
+
+	.pill-option {
+		display: inline-block;
+		border-right: 1px solid $colorBlueGray6;
+
+		&:last-child {
+			border-right: none;
+		}
+
+		input {
+			display: none;
+		}
+
+		label {
+			display: inline-block;
+			padding: 6px 25px;
+			transition: all 0.3s ease-in-out;
+			font-size: 13px;
+			cursor: pointer;
+			text-transform: uppercase;
+
+			&:hover {
+				background-color: $colorBlueGray5;
+			}
+		}
+
+		input:checked + label {
+			background-color: $colorBlueGray5;
+		}
+	}
+}
+
+input[type=text] {
+	border-radius: 3px;
+	border: 1px solid $colorBlueGray6;
+	outline: none;
+}
+
+.input-container {
+	display: block;
+	position: relative;
+	margin: 0;
+	cursor: pointer;
+	user-select: none;
+
+	input {
+		position: absolute;
+		opacity: 0;
+		cursor: pointer;
+		height: 0;
+		width: 0;
+		margin: 0;
+	}
+	span {
+		margin-left: 23px;
+		padding: 3px;
+		position: relative;
+
+		&:before {
+			content: '';
+			position: absolute;
+			height: 15px;
+			width: 15px;
+			top: 2px;
+			left: -23px;
+			background-color: $colorBlueGray5;
+			border: 1px solid $colorBlueGray6;
+			border-radius: 3px;
+			box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+			transition: all 0.3s ease-in-out;
+
+			&:hover {
+				box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+			}
+		}
+	}
+
+	input:checked + span:before {
+		background-color: $colorBlue11;
+		width: 16px;
+		height: 16px;
+		border: none;
+	}
+}
+
+.Timeline {
+	margin-top: 20px;
+}
+
+.long-selector, .short-selector {
+	display: inline-block;
+
+	.pill-container {
+		margin: 5px 20px 5px 0;
+
+		.pill-option label {
+			font-size: 11px;
+			padding: 6px 20px;
+		}
+	}
+}

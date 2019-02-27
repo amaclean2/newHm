@@ -1,0 +1,141 @@
+{
+  "data": {
+    "size": 11,
+    "content": [
+      {
+        "entityId": 438086764234,
+        "severity": "CLEAR",
+        "category": "Hardware Radio",
+        "hostname": "AH-003b40",
+        "deviceMac": "7C95B1003B40",
+        "clientMac": "",
+        "description": "wifi1: A high interference alert was raised.",
+        "timestamp": 1548951970000,
+        "sevirityNo": 1,
+        "id": "TlfEpGgBBoPuU52lL_rF"
+      },
+      {
+        "entityId": 438086764234,
+        "severity": "CLEAR",
+        "category": "Hardware Radio",
+        "hostname": "AH-003b40",
+        "deviceMac": "7C95B1003B40",
+        "clientMac": "",
+        "description": "wifi1: A high interference alert was raised.",
+        "timestamp": 1548951130000,
+        "sevirityNo": 1,
+        "id": "Ole6pGgBBoPuU52l__ok"
+      },
+      {
+        "entityId": 438086764234,
+        "severity": "INFO",
+        "category": "Device Connect State Change",
+        "hostname": "AH-003b40",
+        "deviceMac": "7C95B1003B40",
+        "clientMac": "",
+        "description": "Device connected to HiveManager.",
+        "timestamp": 1548950270064,
+        "sevirityNo": 2,
+        "id": "zlehpGgBBoPuU52lcPmw"
+      },
+      {
+        "entityId": 438086764234,
+        "severity": "INFO",
+        "category": "Reboot",
+        "hostname": "AH-003b40",
+        "deviceMac": "7C95B1003B40",
+        "clientMac": "",
+        "description": "Device rebooted.",
+        "timestamp": 1548950270064,
+        "sevirityNo": 2,
+        "id": "z1ehpGgBBoPuU52lcPmw"
+      },
+      {
+        "entityId": 438086764234,
+        "severity": "INFO",
+        "category": "Reboot",
+        "hostname": "AH-003b40",
+        "deviceMac": "7C95B1003B40",
+        "clientMac": "",
+        "description": "Device rebooted.",
+        "timestamp": 1548929689694,
+        "sevirityNo": 2,
+        "id": "31dno2gBBoPuU52lafcg"
+      },
+      {
+        "entityId": 438086764234,
+        "severity": "INFO",
+        "category": "Device Connect State Change",
+        "hostname": "AH-003b40",
+        "deviceMac": "7C95B1003B40",
+        "clientMac": "",
+        "description": "Device connected to HiveManager.",
+        "timestamp": 1548929689693,
+        "sevirityNo": 2,
+        "id": "3ldno2gBBoPuU52lafcg"
+      },
+      {
+        "entityId": 438086764234,
+        "severity": "CLEAR",
+        "category": "Hardware Radio",
+        "hostname": "AH-003b40",
+        "deviceMac": "7C95B1003B40",
+        "clientMac": "",
+        "description": "wifi1: A high interference alert was raised.",
+        "timestamp": 1548911279000,
+        "sevirityNo": 1,
+        "id": "MldTomgBBoPuU52lKfad"
+      },
+      {
+        "entityId": 438086764234,
+        "severity": "INFO",
+        "category": "Reboot",
+        "hostname": "AH-003b40",
+        "deviceMac": "7C95B1003B40",
+        "clientMac": "",
+        "description": "Device rebooted.",
+        "timestamp": 1548908989394,
+        "sevirityNo": 2,
+        "id": "ylcromgBBoPuU52ljPXX"
+      },
+      {
+        "entityId": 438086764234,
+        "severity": "INFO",
+        "category": "Device Connect State Change",
+        "hostname": "AH-003b40",
+        "deviceMac": "7C95B1003B40",
+        "clientMac": "",
+        "description": "Device connected to HiveManager.",
+        "timestamp": 1548908989393,
+        "sevirityNo": 2,
+        "id": "yVcromgBBoPuU52ljPXX"
+      },
+      {
+        "entityId": 438086764234,
+        "severity": "INFO",
+        "category": "Reboot",
+        "hostname": "AH-003b40",
+        "deviceMac": "7C95B1003B40",
+        "clientMac": "",
+        "description": "Device rebooted.",
+        "timestamp": 1548887329646,
+        "sevirityNo": 2,
+        "id": "AWig4QyxYpWcHBbqo7Ly"
+      },
+      {
+        "entityId": 438086764234,
+        "severity": "INFO",
+        "category": "Device Connect State Change",
+        "hostname": "AH-003b40",
+        "deviceMac": "7C95B1003B40",
+        "clientMac": "",
+        "description": "Device connected to HiveManager.",
+        "timestamp": 1548887329645,
+        "sevirityNo": 2,
+        "id": "AWig4QyxYpWcHBbqo7Lx"
+      }
+    ],
+    "startKey": "-1",
+    "total": 11
+  }
+}

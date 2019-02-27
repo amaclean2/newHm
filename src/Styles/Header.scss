@@ -1,0 +1,152 @@
+.Header {
+	background-color: $colorBlack3;
+	color: $colorWhite1;
+	height: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	padding: 0 20px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 10;
+	width: 100vw;
+	box-sizing: border-box;
+
+	.ah-logo {
+		width: 108px;
+	}
+
+	.search-icon {
+		background-image: url('Images/search.svg');
+	}
+
+	.add-icon {
+		background-image: url('Images/add.svg');
+	}
+
+	.bell-icon {
+		background-image: url('Images/bell.svg');	
+	}
+
+	.clock-icon {
+		background-image: url('Images/clock.svg');
+	}
+
+	.icon {
+		background-repeat: no-repeat;
+		width: 20px;
+		height: 20px;
+		margin: 0 13px;
+		cursor: pointer;
+	}
+
+	.tool-bar {
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+		height: 100%;
+		margin: 0;
+
+		li {
+			height: 100%;
+			list-style-type: none;
+
+			a, .title {
+				display: flex;
+				align-items: center;
+				color: $colorWhite1;
+				text-decoration: none;
+				height: 100%;
+				padding: 0 10px;
+				text-transform: uppercase;
+				font-size: 13px;
+				position: relative;
+				transition: all 0.3s ease-in-out;
+
+				&:hover {
+					color: $colorBlack1;
+					background-color: $colorBlueGray6;
+				}
+			}
+
+			.sub-menu {
+				display: none;
+			}
+
+			&:hover .sub-menu {
+				display: block;
+			}
+		}
+	}
+
+	.sub-menu, .preferences-menu {
+		position: absolute;
+		background-color: $colorWhite1;
+		box-shadow: 0 1px 5px rgba(0,0,0,0.3);
+		padding: 5px 0;
+		border-radius: 3px;
+		top: 45px;
+
+		li a {
+			font-size: 12px;
+			color: $colorBlue7;
+			padding: 10px 20px;
+			height: 100%;
+			display: flex;
+			align-items: center;
+			text-decoration: none;
+			transition: all 0.3s ease-in-out;
+
+			&:hover {
+				background-color: $colorBlueGray6;
+			}
+		}
+	}
+
+	.header-actions {
+		height: 100%;
+		display: flex;
+		align-items: center;
+
+		.search {
+			display: flex;
+			align-items: center;
+
+			.search-box {
+				margin: 0 10px;
+
+				input {
+					border: none;
+					font-size: 14px;
+					padding: 10px 20px;
+					box-sizing: border-box;
+					border-radius: 3px;
+					outline: none;
+					width: 30vw;
+				}
+			}
+		}
+
+		.user-preferences {
+			height: 100%;
+			display: flex;
+			align-items: center;
+
+			.user-title {
+				padding: 0 10px;
+				span {
+					display: block;
+					font-size: 11px;
+				}
+			}
+
+			.preferences-menu {
+				margin: 0;
+				min-width: 100px;
+				box-sizing: border-box;
+				right: 5px;
+			}
+		}
+	}
+}

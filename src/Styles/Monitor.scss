@@ -1,0 +1,21 @@
+.Monitor {
+	padding: 15px 20px;
+	margin-top: 50px;
+	box-sizing: border-box;
+
+	h2 {
+		font-size: 20px;
+		margin: 10px 20px 15px 0;
+	}
+
+	.date-range {
+		margin: 20px 0;
+		color: $colorBlue7;
+	}
+
+	.header-block {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+}

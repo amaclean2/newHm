@@ -1,0 +1,1076 @@
+{
+  "data": [
+    {
+      "id": 72073846300385,
+      "osType": "Apple iOS",
+      "clientHealth": 100,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "AV-iPad-156",
+      "macAddress": "A4B805E7E4D8",
+      "ipAddress": "10.16.101.95",
+      "ipv6Address": "2620:7e:90a0:1161:a8c8:ecf3:91fa:e1ef",
+      "userName": "avhive",
+      "userProfile": "AV_Net",
+      "vlan": 201,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294378,
+      "deviceName": "US-MIL-1-02",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 52,
+      "rssi": -65,
+      "snr": 30,
+      "startTime": 1548975574000,
+      "endTime": 0,
+      "usage": 39302,
+      "healthUpdateTime": 1548982142093,
+      "rssiUpdateTime": 1548982142093,
+      "snrUpdateTime": 1548982142093,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "prediction": "Apple iOS",
+      "mobility": "Undetermined",
+      "category": "Apple iOS"
+    },
+    {
+      "id": 72073846302134,
+      "osType": "Windows 10",
+      "clientHealth": 0,
+      "applicationHealth": 0,
+      "networkHealth": 0,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "DS-X250",
+      "macAddress": "5CE0C58E64CB",
+      "ipAddress": "10.16.106.62",
+      "ipv6Address": "2620:7e:90a0:1116:8ccb:de4e:22f8:b2d5,2620:7e:90a0:1116:34ff:11c0:83fc:7ecf",
+      "userName": "dsnell@aerohive.com",
+      "userProfile": "Sales",
+      "vlan": 206,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294383,
+      "deviceName": "US-MIL-1-03",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 52,
+      "rssi": -53,
+      "snr": 42,
+      "startTime": 1548981936000,
+      "endTime": 0,
+      "usage": 21338,
+      "healthUpdateTime": 1548982142478,
+      "rssiUpdateTime": 1548982142478,
+      "snrUpdateTime": 1548982142478,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "vendor": "Intel Corporate",
+      "prediction": "Windows 10",
+      "mobility": "Mobile",
+      "category": "Windows 10"
+    },
+    {
+      "id": 72073846472938,
+      "osType": "Mac OS X",
+      "clientHealth": 88,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 88,
+      "connectionStatus": "CONNECTED",
+      "hostName": "agarcia-mac2",
+      "macAddress": "6C96CFDFAF4B",
+      "ipAddress": "10.16.104.35",
+      "ipv6Address": "2620:7e:90a0:1114:4d87:497d:25b2:750b",
+      "userName": "agarcia",
+      "userProfile": "Engineering",
+      "vlan": 204,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294383,
+      "deviceName": "US-MIL-1-03",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 52,
+      "rssi": -55,
+      "snr": 40,
+      "startTime": 1548979047000,
+      "endTime": 0,
+      "usage": 115992173,
+      "healthUpdateTime": 1548982142470,
+      "rssiUpdateTime": 1548982142470,
+      "snrUpdateTime": 1548982142470,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "prediction": "Mac OS X",
+      "mobility": "Undetermined",
+      "category": "Mac OS X"
+    },
+    {
+      "id": 72073846303281,
+      "osType": "Apple iOS",
+      "clientHealth": 100,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "sqwensione6Plus",
+      "macAddress": "DC37148CA824",
+      "ipAddress": "10.16.102.40",
+      "ipv6Address": "2620:7e:90a0:1112:3523:94d6:12a3:cf84",
+      "userName": "sqwen",
+      "userProfile": "Engineering",
+      "vlan": 202,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294388,
+      "deviceName": "US-MIL-1-04",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 112,
+      "rssi": -55,
+      "snr": 40,
+      "startTime": 1548972279000,
+      "endTime": 0,
+      "usage": 2310,
+      "healthUpdateTime": 1548982142730,
+      "rssiUpdateTime": 1548982142730,
+      "snrUpdateTime": 1548982142730,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "vendor": "Apple Inc",
+      "prediction": "Apple iOS",
+      "mobility": "Mobile",
+      "category": "Apple iOS"
+    },
+    {
+      "id": 72073846542768,
+      "osType": "Windows 10",
+      "clientHealth": 100,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "DESKTOP-RJ87RO1",
+      "macAddress": "C49DED2AB9CF",
+      "ipAddress": "10.16.103.35",
+      "ipv6Address": "2620:7e:90a0:1113:7c26:6067:58a4:cbf2,2620:7e:90a0:1113:d826:d947:b805:16b0",
+      "userName": "klin",
+      "userProfile": "Engineering",
+      "vlan": 203,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294388,
+      "deviceName": "US-MIL-1-04",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 112,
+      "rssi": -38,
+      "snr": 57,
+      "startTime": 1548981114000,
+      "endTime": 0,
+      "usage": 1768648,
+      "healthUpdateTime": 1548982142726,
+      "rssiUpdateTime": 1548982142726,
+      "snrUpdateTime": 1548982142726,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "prediction": "Windows 10",
+      "mobility": "Mobile",
+      "category": "Windows 10"
+    },
+    {
+      "id": 72073846296367,
+      "osType": "Mac OS X",
+      "clientHealth": 100,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "rramananda-mac",
+      "macAddress": "F45C89926B6F",
+      "ipAddress": "10.16.102.34",
+      "ipv6Address": "2620:7e:90a0:1112:1804:d302:2a05:6fd7",
+      "userName": "rramananda",
+      "userProfile": "Engineering",
+      "vlan": 202,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294393,
+      "deviceName": "US-MIL-1-05",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 128,
+      "rssi": -59,
+      "snr": 36,
+      "startTime": 1548969970000,
+      "endTime": 0,
+      "usage": 37082757,
+      "healthUpdateTime": 1548982141955,
+      "rssiUpdateTime": 1548982141955,
+      "snrUpdateTime": 1548982141955,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "prediction": "Mac OS X",
+      "mobility": "Mobile",
+      "category": "Mac OS X"
+    },
+    {
+      "id": 72073846538019,
+      "osType": "Apple iOS",
+      "clientHealth": 100,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "PanganiPhone",
+      "macAddress": "D81C79974081",
+      "ipAddress": "10.16.103.41",
+      "ipv6Address": "2620:7e:90a0:1113:1d12:b755:7682:6b45",
+      "userName": "gpanganiban",
+      "userProfile": "Engineering",
+      "vlan": 203,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294393,
+      "deviceName": "US-MIL-1-05",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 128,
+      "rssi": -57,
+      "snr": 38,
+      "startTime": 1548977988000,
+      "endTime": 0,
+      "usage": 1510025,
+      "healthUpdateTime": 1548982141951,
+      "rssiUpdateTime": 1548982141951,
+      "snrUpdateTime": 1548982141951,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "prediction": "Apple iOS",
+      "mobility": "Mobile",
+      "category": "Apple iOS"
+    },
+    {
+      "id": 72073846485174,
+      "osType": "Mac OS X",
+      "clientHealth": 100,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "AGulyaev-Mac",
+      "macAddress": "645AEDEA3C83",
+      "ipAddress": "10.16.102.42",
+      "ipv6Address": "",
+      "userName": "agulyaev",
+      "userProfile": "Engineering",
+      "vlan": 202,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294393,
+      "deviceName": "US-MIL-1-05",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 128,
+      "rssi": -38,
+      "snr": 57,
+      "startTime": 1548961462000,
+      "endTime": 0,
+      "usage": 5629569,
+      "healthUpdateTime": 1548982141959,
+      "rssiUpdateTime": 1548982141959,
+      "snrUpdateTime": 1548982141959,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "prediction": "Mac OS X",
+      "mobility": "Mobile",
+      "category": "Mac OS X"
+    },
+    {
+      "id": 72073846309970,
+      "osType": "Apple iOS",
+      "clientHealth": 100,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "Andrews-iPhone",
+      "macAddress": "58404E23CA75",
+      "ipAddress": "10.16.104.26",
+      "ipv6Address": "2620:7e:90a0:1114:1c2:56db:2bb8:8890",
+      "userName": "amaclean",
+      "userProfile": "Engineering",
+      "vlan": 204,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294393,
+      "deviceName": "US-MIL-1-05",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 128,
+      "rssi": -52,
+      "snr": 43,
+      "startTime": 1548979897000,
+      "endTime": 0,
+      "usage": 448029,
+      "healthUpdateTime": 1548982141947,
+      "rssiUpdateTime": 1548982141947,
+      "snrUpdateTime": 1548982141947,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "prediction": "Apple iOS",
+      "mobility": "Mobile",
+      "category": "Apple iOS"
+    },
+    {
+      "id": 72073846307072,
+      "osType": "Android-Nougat",
+      "clientHealth": 100,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "",
+      "macAddress": "044BEDB58D77",
+      "ipAddress": "10.16.98.246",
+      "ipv6Address": "",
+      "userName": "milappletv",
+      "userProfile": "AV_Net",
+      "vlan": 201,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294398,
+      "deviceName": "US-MIL-1-06",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 108,
+      "rssi": -46,
+      "snr": 49,
+      "startTime": 1548292166000,
+      "endTime": 0,
+      "usage": 238854,
+      "healthUpdateTime": 1548982142852,
+      "rssiUpdateTime": 1548982142852,
+      "snrUpdateTime": 1548982142852,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "prediction": "Android-Nougat",
+      "mobility": "Stationary",
+      "category": "Apple tvOS",
+      "description": "Kitchen Apple TV"
+    },
+    {
+      "id": 72073846464911,
+      "osType": "Android-Nougat",
+      "clientHealth": 100,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "SAMSUNG-SM-G950U",
+      "macAddress": "DCEFCAFB9AD9",
+      "ipAddress": "10.16.98.214",
+      "ipv6Address": "2620:7e:90a0:111a:e084:a57e:2aad:13cf",
+      "userName": "graceai@aerohive.com",
+      "userProfile": "BYOD",
+      "vlan": 198,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294398,
+      "deviceName": "US-MIL-1-06",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 108,
+      "rssi": -76,
+      "snr": 19,
+      "startTime": 1548982177000,
+      "endTime": 0,
+      "usage": 35285,
+      "healthUpdateTime": 1548982200838,
+      "rssiUpdateTime": 1548982200838,
+      "snrUpdateTime": 1548982200838,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "prediction": "Android-Nougat",
+      "mobility": "Mobile",
+      "category": "Android-Nougat"
+    },
+    {
+      "id": 72073846300828,
+      "osType": "Apple iOS",
+      "clientHealth": 100,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "MILATVSTATHIS7",
+      "macAddress": "1C1AC07F1200",
+      "ipAddress": "10.16.101.104",
+      "ipv6Address": "2620:7e:90a0:1161:5e:c2f4:5a5e:4eb3",
+      "userName": "milappletv",
+      "userProfile": "AV_Net",
+      "vlan": 201,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294398,
+      "deviceName": "US-MIL-1-06",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 108,
+      "rssi": -54,
+      "snr": 41,
+      "startTime": 1548293639000,
+      "endTime": 0,
+      "usage": 450520,
+      "healthUpdateTime": 1548982142847,
+      "rssiUpdateTime": 1548982142847,
+      "snrUpdateTime": 1548982142847,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "vendor": "Apple Inc",
+      "prediction": "Apple iOS",
+      "mobility": "Stationary",
+      "category": "AV System",
+      "description": "Break Room AppleTV"
+    },
+    {
+      "id": 72073846313358,
+      "osType": "Apple iOS",
+      "clientHealth": 40,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 40,
+      "connectionStatus": "CONNECTED",
+      "hostName": "Raveens-iPhone",
+      "macAddress": "B019C69BE000",
+      "ipAddress": "10.16.103.28",
+      "ipv6Address": "2620:7e:90a0:1113:c406:8551:a375:1dc5",
+      "userName": "rramananda",
+      "userProfile": "Engineering",
+      "vlan": 203,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294408,
+      "deviceName": "US-MIL-1-08",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 149,
+      "rssi": -75,
+      "snr": 20,
+      "startTime": 1548979609000,
+      "endTime": 0,
+      "usage": 25912,
+      "healthUpdateTime": 1548982141889,
+      "rssiUpdateTime": 1548982141889,
+      "snrUpdateTime": 1548982141889,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "prediction": "Apple iOS",
+      "mobility": "Mobile",
+      "category": "Apple iOS"
+    },
+    {
+      "id": 72073846296195,
+      "osType": "Mac OS X",
+      "clientHealth": 100,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "cchan2-mac-26",
+      "macAddress": "F45C89927B77",
+      "ipAddress": "10.16.102.33",
+      "ipv6Address": "2620:7e:90a0:1112:189b:6370:e44a:a662",
+      "userName": "cchan",
+      "userProfile": "Engineering",
+      "vlan": 202,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294408,
+      "deviceName": "US-MIL-1-08",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 149,
+      "rssi": -51,
+      "snr": 44,
+      "startTime": 1548978804000,
+      "endTime": 0,
+      "usage": 2931106,
+      "healthUpdateTime": 1548982141898,
+      "rssiUpdateTime": 1548982141898,
+      "snrUpdateTime": 1548982141898,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "prediction": "Mac OS X",
+      "mobility": "Mobile",
+      "category": "Mac OS X"
+    },
+    {
+      "id": 72073846549885,
+      "osType": "Apple iOS",
+      "clientHealth": 100,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "HT-Iphonexs",
+      "macAddress": "FC2A9C52F3D7",
+      "ipAddress": "10.16.102.49",
+      "ipv6Address": "",
+      "userName": "hfang",
+      "userProfile": "Engineering",
+      "vlan": 202,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294408,
+      "deviceName": "US-MIL-1-08",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 149,
+      "rssi": -59,
+      "snr": 36,
+      "startTime": 1548982250000,
+      "endTime": 0,
+      "usage": 6758224,
+      "healthUpdateTime": 1548982253740,
+      "rssiUpdateTime": 1548982253740,
+      "snrUpdateTime": 1548982253740,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "prediction": "Apple iOS",
+      "mobility": "Mobile",
+      "category": "Apple iOS"
+    },
+    {
+      "id": 72073846473698,
+      "osType": "Android-Nougat",
+      "clientHealth": 100,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "SAMSUNG-SM-G950U",
+      "macAddress": "8C4500035B36",
+      "ipAddress": "10.16.102.48",
+      "ipv6Address": "2620:7e:90a0:1112:b09c:33ea:74b4:23c",
+      "userName": "joe.zhao",
+      "userProfile": "Engineering",
+      "vlan": 202,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294408,
+      "deviceName": "US-MIL-1-08",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 149,
+      "rssi": -63,
+      "snr": 32,
+      "startTime": 1548979473000,
+      "endTime": 0,
+      "usage": 2382346,
+      "healthUpdateTime": 1548982141894,
+      "rssiUpdateTime": 1548982141894,
+      "snrUpdateTime": 1548982141894,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "prediction": "Android-Nougat",
+      "mobility": "Mobile",
+      "category": "Android-Nougat"
+    },
+    {
+      "id": 72073846307038,
+      "osType": "Mac OS X",
+      "clientHealth": 100,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "Dducommun-macpro",
+      "macAddress": "F45C89BB6A1D",
+      "ipAddress": "10.16.102.26",
+      "ipv6Address": "2620:7e:90a0:1112:d90e:6b20:b7fc:f039",
+      "userName": "dducommun",
+      "userProfile": "Engineering",
+      "vlan": 202,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294413,
+      "deviceName": "US-MIL-1-09",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 60,
+      "rssi": -50,
+      "snr": 45,
+      "startTime": 1548971801000,
+      "endTime": 0,
+      "usage": 758693,
+      "healthUpdateTime": 1548982141159,
+      "rssiUpdateTime": 1548982141159,
+      "snrUpdateTime": 1548982141159,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "prediction": "Mac OS X",
+      "mobility": "Mobile",
+      "category": "Mac OS X"
+    },
+    {
+      "id": 72073846296388,
+      "osType": "Windows10",
+      "clientHealth": 85,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 85,
+      "connectionStatus": "CONNECTED",
+      "hostName": "LCAI-T460",
+      "macAddress": "A434D9C5B7F5",
+      "ipAddress": "10.16.104.21",
+      "ipv6Address": "2620:7e:90a0:1114:1990:4f91:3e4e:ed52,2620:7e:90a0:1114:a040:895a:16c4:fc1e",
+      "userName": "AEROHIVE\\lcai",
+      "userProfile": "Engineering",
+      "vlan": 204,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294413,
+      "deviceName": "US-MIL-1-09",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 60,
+      "rssi": -51,
+      "snr": 44,
+      "startTime": 1548961297000,
+      "endTime": 0,
+      "usage": 3978101,
+      "healthUpdateTime": 1548982141164,
+      "rssiUpdateTime": 1548982141164,
+      "snrUpdateTime": 1548982141164,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294240,
+          "name": "1st Fl - Milpitas"
+        }
+      ],
+      "vendor": "Intel Corporate",
+      "prediction": "Windows10",
+      "mobility": "Stationary",
+      "category": "Windows10"
+    },
+    {
+      "id": 72073846296346,
+      "osType": "Apple iOS",
+      "clientHealth": 100,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 100,
+      "connectionStatus": "CONNECTED",
+      "hostName": "Carols-iPhone",
+      "macAddress": "3CAB8E6BADAD",
+      "ipAddress": "10.16.98.62",
+      "ipv6Address": "2620:7e:90a0:111a:41fb:29b8:2281:cd3f",
+      "userName": "csavoy@aerohive.com",
+      "userProfile": "BYOD",
+      "vlan": 198,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294429,
+      "deviceName": "US-MIL-2-01",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 116,
+      "rssi": -64,
+      "snr": 31,
+      "startTime": 1548969757000,
+      "endTime": 0,
+      "usage": 22499,
+      "healthUpdateTime": 1548982141292,
+      "rssiUpdateTime": 1548982141292,
+      "snrUpdateTime": 1548982141292,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294239,
+          "name": "2nd Fl - Milpitas"
+        }
+      ],
+      "vendor": "Apple Inc",
+      "prediction": "Apple iOS",
+      "mobility": "Mobile",
+      "category": "Apple iOS"
+    },
+    {
+      "id": 72073846521898,
+      "osType": "Apple iOS",
+      "clientHealth": 40,
+      "applicationHealth": 100,
+      "networkHealth": 100,
+      "radioHealth": 40,
+      "connectionStatus": "CONNECTED",
+      "hostName": "Aileen",
+      "macAddress": "784F43471D58",
+      "ipAddress": "10.16.98.128",
+      "ipv6Address": "2620:7e:90a0:111a:1038:b603:f040:7d3d",
+      "userName": "amenjivar@aerohive.com",
+      "userProfile": "BYOD",
+      "vlan": 198,
+      "connectionType": "WIRELESS",
+      "deviceId": 72073846294429,
+      "deviceName": "US-MIL-2-01",
+      "deviceFunction": 1,
+      "ssidOrPort": "AH-Employee",
+      "auth": "WPA2-802.1X",
+      "encryptionMethod": "AES",
+      "channel": 116,
+      "rssi": -91,
+      "snr": 4,
+      "startTime": 1548981688000,
+      "endTime": 0,
+      "usage": 3161,
+      "healthUpdateTime": 1548982142836,
+      "rssiUpdateTime": 1548982142836,
+      "snrUpdateTime": 1548982142836,
+      "location": [
+        {
+          "id": 72073846294188,
+          "name": "Aerohive Networks"
+        },
+        {
+          "id": 72073846294185,
+          "name": "Milpitas"
+        },
+        {
+          "id": 72073846294238,
+          "name": "Aerohive HQ"
+        },
+        {
+          "id": 72073846294239,
+          "name": "2nd Fl - Milpitas"
+        }
+      ],
+      "prediction": "Apple iOS",
+      "mobility": "Mobile",
+      "category": "Apple iOS"
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "countInPage": 20,
+    "totalCount": 253
+  }
+}

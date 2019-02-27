@@ -1,0 +1,607 @@
+{
+  "data": {
+    "orgId": 0,
+    "content": [
+      {
+        "name": "Devices",
+        "type": "CATEGORY",
+        "value": [
+          {
+            "name": "Locations",
+            "code": "LOCATIONS",
+            "type": "TREE",
+            "value": [
+              {
+                "type": "NODE",
+                "id": 72073846294188,
+                "name": "Aerohive Networks",
+                "value": false,
+                "orgId": 0,
+                "children": [
+                  {
+                    "type": "NODE",
+                    "id": 72073846473712,
+                    "name": "Atlanta",
+                    "value": false,
+                    "orgId": 0,
+                    "children": [
+                      {
+                        "type": "NODE",
+                        "id": 72073846473918,
+                        "name": "Branch Office",
+                        "value": false,
+                        "orgId": 0,
+                        "children": [
+                          {
+                            "type": "NODE",
+                            "id": 72073846473919,
+                            "name": "1st Fl - Atlanta",
+                            "value": false,
+                            "orgId": 0,
+                            "children": [
+                              
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "NODE",
+                    "id": 72073846294185,
+                    "name": "Milpitas",
+                    "value": false,
+                    "orgId": 0,
+                    "children": [
+                      {
+                        "type": "NODE",
+                        "id": 72073846294238,
+                        "name": "Aerohive HQ",
+                        "value": false,
+                        "orgId": 0,
+                        "children": [
+                          {
+                            "type": "NODE",
+                            "id": 72073846294239,
+                            "name": "2nd Fl - Milpitas",
+                            "value": false,
+                            "orgId": 0,
+                            "children": [
+                              
+                            ]
+                          },
+                          {
+                            "type": "NODE",
+                            "id": 72073846294240,
+                            "name": "1st Fl - Milpitas",
+                            "value": false,
+                            "orgId": 0,
+                            "children": [
+                              
+                            ]
+                          },
+                          {
+                            "type": "NODE",
+                            "id": 72073846314635,
+                            "name": "Sensor - 2nd Fl - Milpitas",
+                            "value": false,
+                            "orgId": 0,
+                            "children": [
+                              
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Network Policies",
+            "code": "NETWORK_POLICIES",
+            "type": "ITEMS",
+            "value": [
+              {
+                "type": "ITEM",
+                "id": 72073846464613,
+                "name": "Aerohive_SDWAN",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846298567,
+                "name": "TestingPolicy",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846294371,
+                "name": "Aerohive_Networks",
+                "value": false,
+                "orgId": 0
+              }
+            ]
+          },
+          {
+            "name": "Device Types",
+            "code": "DEVICE_TYPES",
+            "type": "ITEMS",
+            "value": [
+              {
+                "type": "ITEM",
+                "id": 1,
+                "name": "Real Devices",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 2,
+                "name": "Simulated Devices",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 3,
+                "name": "Plan Devices",
+                "value": false,
+                "orgId": 0
+              }
+            ]
+          },
+          {
+            "name": "Device Connection State",
+            "code": "DEVICE_CONNECTION_STATES",
+            "type": "ITEMS",
+            "value": [
+              {
+                "type": "ITEM",
+                "id": 1,
+                "name": "Connected",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 2,
+                "name": "Disconnected",
+                "value": false,
+                "orgId": 0
+              }
+            ]
+          },
+          {
+            "name": "Device Management State",
+            "code": "DEVICE_MANAGEMENT_STATES",
+            "type": "ITEMS",
+            "value": [
+              {
+                "type": "ITEM",
+                "id": 4,
+                "name": "New",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 24,
+                "name": "Setting up",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 1,
+                "name": "Managed",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 2,
+                "name": "Unmanaged",
+                "value": false,
+                "orgId": 0
+              }
+            ]
+          },
+          {
+            "name": "Device Function",
+            "code": "FUNCTIONS",
+            "type": "ITEMS",
+            "value": [
+              {
+                "type": "ITEM",
+                "id": 1,
+                "name": "Access Point",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 4,
+                "name": "Router",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 2,
+                "name": "Switch",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 16,
+                "name": "VaAsL3Vg",
+                "value": false,
+                "orgId": 0
+              }
+            ]
+          },
+          {
+            "name": "Device Product Type",
+            "code": "PRODUCT_TYPE_IDS",
+            "type": "ITEMS",
+            "value": [
+              {
+                "type": "ITEM",
+                "id": 29,
+                "name": "AP130",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 25,
+                "name": "AP230",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 30,
+                "name": "AP250",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 36,
+                "name": "AP30",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 14,
+                "name": "BR200WP",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 111,
+                "name": "N2024P",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 113,
+                "name": "N2048P",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 232,
+                "name": "SR2324P",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 233,
+                "name": "SR2348P",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 26,
+                "name": "VGVA",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 34,
+                "name": "XR200P",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 35,
+                "name": "XR600P",
+                "value": false,
+                "orgId": 0
+              }
+            ]
+          },
+          {
+            "name": "Device Software Version",
+            "code": "DEVICE_SOFTWARE_VERSIONS",
+            "type": "ITEMS",
+            "value": [
+              {
+                "type": "ITEM",
+                "id": -1207956360,
+                "name": "1.0.1.22",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": -1207956356,
+                "name": "1.0.1.26",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": -997892271,
+                "name": "6.3.3.14",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 2051560071,
+                "name": "6.9.2.0",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 2051561032,
+                "name": "6.9.3.0",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 2051561033,
+                "name": "6.9.3.1",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": -1778667503,
+                "name": "8.4.10.0",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": -473017468,
+                "name": "8.4.2.0",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": -473010740,
+                "name": "8.4.9.1",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 410792129,
+                "name": "9.0.2.0",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 410793090,
+                "name": "9.0.3.0",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 410793092,
+                "name": "9.0.3.2",
+                "value": false,
+                "orgId": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Network",
+        "type": "CATEGORY",
+        "value": [
+          {
+            "name": "SSIDs",
+            "code": "SSIDS",
+            "type": "ITEMS",
+            "value": [
+              {
+                "type": "ITEM",
+                "id": 72073846298723,
+                "name": "AH-Employee-2.4only",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846294709,
+                "name": "AH-Visitor",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846295471,
+                "name": "AH-Employee",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846560038,
+                "name": "AH-Access",
+                "value": false,
+                "orgId": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Users",
+        "type": "CATEGORY",
+        "value": [
+          {
+            "name": "User Profiles",
+            "code": "USER_PROFILES",
+            "type": "ITEMS",
+            "value": [
+              {
+                "type": "ITEM",
+                "id": 72073846560019,
+                "name": "A3-Registration",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846467252,
+                "name": "Apollo-Access",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846298149,
+                "name": "AV_Net",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846294648,
+                "name": "BYOD",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846295426,
+                "name": "BYOD-Weekend",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 36001,
+                "name": "default-guest-profile",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 36000,
+                "name": "default-profile",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846314485,
+                "name": "Engineering",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846294632,
+                "name": "Engineering-1",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846295559,
+                "name": "Engineering-2",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846294639,
+                "name": "Finance_Legal_IT",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846294649,
+                "name": "Guest",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846295434,
+                "name": "Marketing",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846294624,
+                "name": "Sales",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846467199,
+                "name": "Teleworker-Employee",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846474503,
+                "name": "Teleworker-Employee-BR",
+                "value": false,
+                "orgId": 0
+              },
+              {
+                "type": "ITEM",
+                "id": 72073846467198,
+                "name": "Teleworker-Guest",
+                "value": false,
+                "orgId": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
